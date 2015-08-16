@@ -1,0 +1,50 @@
+body {
+font-family: sans-serif;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.header {
+  background-image: url('new-york-skyline-vector.jpg');
+  height: 326px;
+}
+
+.header p {
+  text-align: center;
+  color:white;
+  padding-top: 10px;
+}
+
+.header a {
+  color:white;
+  text-decoration: none;
+}
+
+.header a:visited {
+  color:#FFFF00;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+.jj-title {
+font-size:3.0em;
+color: white;
+padding-left: 15px;
+text-align: left;
+position:absolute;
+top:280px;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.jj-social-media {
+  text-align: center;
+}
+
+img {
+  padding-bottom: 20px;
+}
